@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="Slopkit" height="128" width="128"/><br/>
+  <img src="slopkit/cat.jpg" alt="Slopkit" height="128" width="128"/><br/>
   <h1>Slopkit</h1>
 
   <p><strong>Only with Payload Manager</strong></p>
