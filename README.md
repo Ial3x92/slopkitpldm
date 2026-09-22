@@ -10,7 +10,7 @@
 
   <p>
     <strong>Credit:</strong><br/>
-    jordyidk (https://github.com/jordyidk)
+	 <a href="https://github.com/jordyidk">jordyidk</a>
   </p>
 
 </div>
