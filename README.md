@@ -1,6 +1,6 @@
 <div align="center">
   <img src="slopkit/cat.jpg" alt="Slopkit" height="128" width="128"/><br/>
-  <h1>Slopkit</h1>
+  <h1>Slopkit up to 12.00</h1>
 
   <p><strong>Only with Payload Manager</strong></p>
 
