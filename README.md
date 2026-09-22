@@ -10,7 +10,7 @@
 
   <p>
     <strong>Credit:</strong><br/>
-    jordyidk, Egy, Sonic, Yenyen, Zeco, Gezine, Echostretch, Ufm42, TheFloW, John Tornblom, Flatz and PS5 R&D Discord.
+    jordyidk (https://github.com/jordyidk)
   </p>
 
 </div>
