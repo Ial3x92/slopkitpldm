@@ -13,8 +13,4 @@
     jordyidk, Egy, Sonic, Yenyen, Zeco, Gezine, Echostretch, Ufm42, TheFloW, John Tornblom, Flatz and PS5 R&D Discord.
   </p>
 
-  <p>
-    <a href="https://github.com">aydencharles</a> – 
-    <a href="https://github.com">kvnhrt</a>
-  </p>
 </div>
